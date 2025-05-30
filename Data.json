@@ -11,5 +11,22 @@
         "url": "https://agungbot.my.id"
       }
     ]
+  },
+  {
+    "id": "6ly1N6qvpN",
+    "buttons": [
+      {
+        "buttonName": "Agung",
+        "url": "https://agungdev.com"
+      },
+      {
+        "buttonName": "AgungWanda",
+        "url": "https://testing.com"
+      },
+      {
+        "buttonName": "Klik",
+        "url": "https://agungwandev.pro"
+      }
+    ]
   }
 ]
